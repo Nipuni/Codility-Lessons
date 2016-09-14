@@ -1,4 +1,4 @@
-package main.java.org.codility.test;
+package org.codility.test;
 /*
  * Copyright (c) 2016, Denis Weerasiri All Rights Reserved.
  *

@@ -1,4 +1,4 @@
-package main.java.org.codility.test;
+package org.codility.test;
 
 /**
  * User: Nipuni Perera
