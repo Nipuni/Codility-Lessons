@@ -1,7 +1,4 @@
 package org.codility.test;
-/*
-
- */
 
 import java.util.EmptyStackException;
 import java.util.Stack;
